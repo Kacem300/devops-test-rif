@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DevOps Selection Test - Odoo Stack
 
 ## Prérequis
@@ -16,3 +17,6 @@ Exécutez `sudo ./apps/backup.sh`. Archive créée dans `/backup/`.
 
 ## Restauration
 Consultez `docs/restauration.md`.
+=======
+# devops-test-rif
+>>>>>>> c533259cc4acbfd4fd6a15423d42bc241146d860
